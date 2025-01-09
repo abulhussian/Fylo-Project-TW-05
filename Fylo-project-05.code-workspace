@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projects-Tailwind-website/fylo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Fylo-project-05"
+	}
+}
